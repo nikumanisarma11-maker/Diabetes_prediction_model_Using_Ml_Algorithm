@@ -31,11 +31,11 @@ This project compares the performance of three machine learning classification a
 - Support Vector Machine (SVM) – Separates diabetic and non-diabetic patients with the optimal  boundary.
 - Ensemble - Combines the predictions of multiple machine learning models to improve performance and make more reliable predictions.
 
-* Three machine learning models (KNN, Decision Tree, and SVM) were first trained and compared using Accuracy, Precision, Recall, F1-score, and Confusion Matrix.
+Three machine learning models (KNN, Decision Tree, and SVM) were first trained and compared using Accuracy, Precision, Recall, F1-score, and Confusion Matrix.
 
 Among these three models, the Support Vector Machine (SVM) achieved the best performance and was selected as the strongest individual model.
 
-*After identifying SVM as the best individual model, an Ensemble model was developed. The Ensemble model was then compared with all the individual models.
+After identifying SVM as the best individual model, an Ensemble model was developed. The Ensemble model was then compared with all the individual models.
 
 The Ensemble model achieved the highest overall performance, providing better accuracy and more reliable predictions than KNN, Decision Tree, and SVM. Therefore, it is selected as the final model for diabetes prediction.
 
